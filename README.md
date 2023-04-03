@@ -7,4 +7,4 @@ Important note:
 
 Please see the tutorial for details
 
-[Tutorial](114514)
+[Tutorial](https://github.com/Zj031210/WMMT6-Model-Extract-Tools/blob/main/Tutorial.md)
