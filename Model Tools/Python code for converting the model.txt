@@ -1,0 +1,1 @@
+./python csplitb -f <file output path> -s .nud -n 1 4E445744 <The path to the bin model file>
